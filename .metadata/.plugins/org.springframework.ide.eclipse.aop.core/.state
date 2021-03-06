@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="service-proxy"/>
+<aop-project name="service-config"/>
+<aop-project name="service-company"/>
+<aop-project name="service-etudiant"/>
+<aop-project name="auth-jwt-security"/>
+<aop-project name="service-register"/>
+</aop-reference-model>
